@@ -83,7 +83,7 @@ itHotkey('cmd+down')
 
 The API is case-insentive, and has all of the conveniences you'd expect—`cmd` vs. `Meta`, `opt` vs. `Alt`, `down` vs. `DownArrow`, etc. 
 
-It also accepts `mod` for the classic "`cmd` on Mac, `ctrl` on Windows" use case.
+It also accepts `mod` for the classic "`cmd` on Mac, `alt` on Windows" use case.
 
 ```js
 import isHotkey from 'is-hotkey'
