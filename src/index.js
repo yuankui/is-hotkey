@@ -27,7 +27,7 @@ const ALIASES = {
   esc: 'escape',
   ins: 'insert',
   left: 'arrowleft',
-  mod: IS_MAC ? 'meta' : 'control',
+  mod: IS_MAC ? 'meta' : 'alt',
   opt: 'alt',
   option: 'alt',
   return: 'enter',
